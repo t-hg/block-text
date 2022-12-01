@@ -1,3 +1,3 @@
-module github.com/uglywizkid/blocktext
+module github.com/t-hg/blocktext
 
 go 1.19
